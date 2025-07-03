@@ -70,7 +70,7 @@ ext.libs = [
     stetho: "com.facebook.stetho:stetho:$versions.stetho",
     stethoOkHttp: "com.facebook.stetho:stetho-okhttp3:$versions.stethoOkHttp",
 
-    moshi: "com.squareup.moshi:moshi-kotlin:$versions.moshi",
+    moshi: "com.squareup.moshi:moshi:$versions.moshi",
     moshiCodeGen: "com.squareup.moshi:moshi-kotlin-codegen:$versions.moshi",
     gson: "com.google.code.gson:gson:$versions.gson",
     protobuf: "com.google.protobuf:protobuf-java:$versions.protobuf",
